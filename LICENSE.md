@@ -3,18 +3,18 @@
 1) Grant of Copyright License. Licensor grants You a worldwide, royalty-free, non-exclusive, 
 sublicensable license, for the duration of the copyright, to do the following:  
 
-  a) to reproduce the Original Work in copies, either alone or as part of a collective work;  
+   * a) to reproduce the Original Work in copies, either alone or as part of a collective work;  
 
-  b) to translate, adapt, alter, transform, modify, or arrange the Original Work, 
+   * b) to translate, adapt, alter, transform, modify, or arrange the Original Work, 
   thereby creating derivative works ("Derivative Works") based upon the Original Work;  
 
-  c) to distribute or communicate copies of the Original Work and Derivative Works to the public, 
+   * c) to distribute or communicate copies of the Original Work and Derivative Works to the public, 
   with the proviso that copies of Original Work or Derivative Works that You distribute or 
   communicate shall be licensed under this Open Software License;  
 
-  d) to perform the Original Work publicly; and  
+   * d) to perform the Original Work publicly; and  
 
-  e) to display the Original Work publicly.  
+   * e) to display the Original Work publicly.  
 
 2) Grant of Patent License. Licensor grants You a worldwide, royalty-free, non-exclusive, sublicensable license,
 under patent claims owned or controlled by the Licensor that are embodied in the Original Work as furnished by the Licensor,
@@ -101,9 +101,11 @@ such provision shall be reformed only to the extent necessary to make it enforce
 14) Definition of "You" in This License. "You" throughout this License, whether in upper or lower case,
 means an individual or a legal entity exercising rights under, and complying with all of the terms of,
 this License. For legal entities, "You" includes any entity that controls, is controlled by,
-or is under common control with you. For purposes of this definition, "control" means (i) the power, direct or indirect,
-to cause the direction or management of such entity, whether by contract or otherwise, 
-or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.  
+or is under common control with you. For purposes of this definition, "control" means  
+(i) the power, direct or indirect,
+to cause the direction or management of such entity, whether by contract or otherwise, or  
+(ii) ownership of fifty percent (50%) or more of the outstanding shares, or  
+(iii) beneficial ownership of such entity.  
 
 15) Right to Use. You may use the Original Work in all ways not otherwise restricted or conditioned by this License or by law,
 and Licensor promises not to interfere with or be responsible for such uses by You.  
@@ -112,10 +114,9 @@ and Licensor promises not to interfere with or be responsible for such uses by Y
 Permission is granted to copy, distribute, or communicate this License without modification.
 Nothing in this License permits You to modify this License as applied to the Original Work or to Derivative Works. However,
 You may modify the text of this License and copy, distribute or communicate your modified version (the "Modified License") and 
-apply it to other original works of authorship subject to the following conditions:
+apply it to other original works of authorship subject to the following conditions:  
 (i) You may not indicate in any way that your Modified License is the "Open Software License" or "OSL" and
 you may not use those names in the name of your Modified License;
-(ii) You must replace the notice specified in the first paragraph above with the notice "Licensed under <insert your license name here>" or
-with a notice of your own that is not confusingly similar to the notice in this License; and 
+(ii) You must replace the notice specified in the first paragraph above with the notice "Licensed under <insert your license name here>" or with a notice of your own that is not confusingly similar to the notice in this License; and   
 (iii) You may not claim that your original works are open source software unless your Modified License
 has been approved by Open Source Initiative (OSI) and You comply with its license review and certification process.  
